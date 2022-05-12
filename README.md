@@ -4,11 +4,15 @@ This repository is my first challenge of many to complete within the UofT coding
 The assignment is to refactor existing code to meet the assignment's Acceptance Criteria.
 The first part of this is the User Story which is as follows:
 
+## User Story
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 With the Acceptance Criteria being the following: 
+
+## Acceptance Criteria
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
